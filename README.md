@@ -1,6 +1,8 @@
 # Awesome-Data-Websites
 
 
+# Data Websites
+
 ## Famous Data Websites
 - [Kaggle](https://www.kaggle.com/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
@@ -32,31 +34,42 @@
 - [HealthData.gov](https://healthdata.gov/browse)
 - [World Bank Open Data](https://data.worldbank.org/)
 - [Humanitarian Data Exchange](https://data.humdata.org/dataset)
+- [Open Data Soft](https://www.opendatasoft.com/)
+- [UN Data](http://data.un.org/)
+- [Enigma Public](https://public.enigma.com/)
+- [Global Open Data Index](https://index.okfn.org/)
 
 ## Health and Medicine
 - [CDC WONDER](https://wonder.cdc.gov/)
 - [UNICEF Data](https://data.unicef.org/)
 - [Global Health Observatory Data Repository (WHO)](https://www.who.int/data/gho)
+- [World Health Organization (WHO) Data](https://www.who.int/data)
 
 ## Finance and Economics
 - [Quandl](https://data.nasdaq.com/publishers/QDL)
 - [IMF Data](https://www.imf.org/en/Data)
 - [KAPSARC Data Portal](https://datasource.kapsarc.org/pages/home/)
+- [Eurostat](https://ec.europa.eu/eurostat)
 
 ## Education and Research
 - [ICPSR](https://www.icpsr.umich.edu/web/pages/)
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [Academic Torrents](https://academictorrents.com/)
+- [Figshare](https://figshare.com/)
+- [Zenodo](https://zenodo.org/)
+- [DataDryad](https://datadryad.org/)
 
 ## Environment and Climate
 - [NASA Earth Data](https://www.earthdata.nasa.gov/)
 - [EarthData (NASA)](https://www.earthdata.nasa.gov/)
+- [FAOSTAT](https://www.fao.org/faostat/en/#home)
 
 ## Science and Technology
 - [SDSS Data Archive](https://cas.sdss.org/dr18/)
 - [IEEE DataPort](https://ieee-dataport.org/datasets)
 - [CERN Open Data Portal](https://opendata.cern.ch/)
 - [KEEL Dataset Repository](https://sci2s.ugr.es/keel/datasets.php)
+- [Machine Learning Repository by Yahoo Labs](https://webscope.sandbox.yahoo.com/)
 
 ## Business and Industry
 - [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
@@ -66,6 +79,9 @@
 - [Google Trends](https://trends.google.com/trends/)
 - [Yelp Dataset](https://www.yelp.com/dataset)
 - [Inside-BigData](https://insideainews.com/)
+- [OpenCorporates](https://opencorporates.com/)
+- [Statista](https://www.statista.com/)
 
 ## Cultural and Historical Data
 - [IMDb Datasets](https://datasets.imdbws.com/)
+- [DBpedia](https://wiki.dbpedia.org/)
