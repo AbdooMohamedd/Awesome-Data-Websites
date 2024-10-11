@@ -11,20 +11,13 @@ These websites offer a vast range of datasets spanning multiple domains and fiel
 - [Kaggle](https://www.kaggle.com/): A platform with diverse datasets for data science and machine learning.
 - [Google Dataset Search](https://datasetsearch.research.google.com/): A search engine for finding datasets across the web.
 - [AWS Open Data](https://registry.opendata.aws/): Free datasets hosted by Amazon Web Services.
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/)  
-  A collection of machine learning datasets for research.
-- [Data.world](https://data.world/)  
-  A collaborative platform for data discovery and sharing.
-- [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/)  
-  Data and visualizations from the FiveThirtyEight team.
-- [KDnuggets](https://www.kdnuggets.com/datasets/index.html)  
-  A collection of datasets for data mining and analytics.
-- [Data Is Plural](https://www.data-is-plural.com/)  
-  A newsletter featuring unique and interesting datasets.
-- [Data Science Central](https://www.datasciencecentral.com/)  
-  A data science community with datasets and resources.
-- [Awesome Public Datasets on GitHub](https://github.com/awesomedata/awesome-public-datasets)  
-  A GitHub repository of publicly available datasets.
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/): A collection of machine learning datasets for research.
+- [Data.world](https://data.world/): A collaborative platform for data discovery and sharing.
+- [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/): Data and visualizations from the FiveThirtyEight team.
+- [KDnuggets](https://www.kdnuggets.com/datasets/index.html): A collection of datasets for data mining and analytics.
+- [Data Is Plural](https://www.data-is-plural.com/): A newsletter featuring unique and interesting datasets.
+- [Data Science Central](https://www.datasciencecentral.com/): A data science community with datasets and resources.
+- [Awesome Public Datasets on GitHub](https://github.com/awesomedata/awesome-public-datasets): A GitHub repository of publicly available datasets.
 
 ---
 
