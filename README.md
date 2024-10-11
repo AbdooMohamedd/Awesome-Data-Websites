@@ -8,12 +8,9 @@ Explore these resources based on categories such as government data, computer vi
 
 ## Famous Data Websites
 These websites offer a vast range of datasets spanning multiple domains and fields of research:
-- [Kaggle](https://www.kaggle.com/)  
-  A platform with diverse datasets for data science and machine learning.
-- [Google Dataset Search](https://datasetsearch.research.google.com/)  
-  A search engine for finding datasets across the web.
-- [AWS Open Data](https://registry.opendata.aws/)  
-  Free datasets hosted by Amazon Web Services.
+- [Kaggle](https://www.kaggle.com/): A platform with diverse datasets for data science and machine learning.
+- [Google Dataset Search](https://datasetsearch.research.google.com/): A search engine for finding datasets across the web.
+- [AWS Open Data](https://registry.opendata.aws/): Free datasets hosted by Amazon Web Services.
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/)  
   A collection of machine learning datasets for research.
 - [Data.world](https://data.world/)  
